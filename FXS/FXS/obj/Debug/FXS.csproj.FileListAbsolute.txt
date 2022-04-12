@@ -1,0 +1,89 @@
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\FXS.exe.config
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\FXS.exe
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\FXS.pdb
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\Guna.UI2.dll
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.csprojAssemblyReference.cache
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.Form1.resources
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.Properties.Resources.resources
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.csproj.GenerateResource.cache
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.csproj.CoreCompileInputs.cache
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.csproj.CopyComplete
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.exe
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.pdb
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.Skins.resources
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.Options.resources
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.soon.resources
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\FXS.exe.manifest
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\FXS.application
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.exe.manifest
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.application
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\DiscordRPC.dll
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\DiscordRPC.pdb
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\DiscordRPC.xml
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.SaySo.resources
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\en-US\FXS.resources.dll
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.Form1.en-US.resources
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\en-US\FXS.resources.dll
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.dashboard.resources
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.Form2.resources
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\Json.Net.dll
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\CircularProgressBar.dll
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\WinFormAnimation.dll
+C:\Users\RESOU\source\repos\FXS\FXS\bin\Debug\CircularProgressBar.xml
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.logbruv.resources
+C:\Users\RESOU\source\repos\FXS\FXS\obj\Debug\FXS.splash.resources
+D:\c drive\FXS\FXS\bin\Debug\FXS.exe.config
+D:\c drive\FXS\FXS\bin\Debug\FXS.exe.manifest
+D:\c drive\FXS\FXS\bin\Debug\FXS.application
+D:\c drive\FXS\FXS\bin\Debug\FXS.exe
+D:\c drive\FXS\FXS\bin\Debug\FXS.pdb
+D:\c drive\FXS\FXS\bin\Debug\en-US\FXS.resources.dll
+D:\c drive\FXS\FXS\bin\Debug\CircularProgressBar.dll
+D:\c drive\FXS\FXS\bin\Debug\DiscordRPC.dll
+D:\c drive\FXS\FXS\bin\Debug\Guna.UI2.dll
+D:\c drive\FXS\FXS\bin\Debug\Json.Net.dll
+D:\c drive\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\c drive\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\c drive\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\c drive\FXS\FXS\bin\Debug\Newtonsoft.Json.dll
+D:\c drive\FXS\FXS\bin\Debug\WinFormAnimation.dll
+D:\c drive\FXS\FXS\bin\Debug\CircularProgressBar.xml
+D:\c drive\FXS\FXS\bin\Debug\DiscordRPC.pdb
+D:\c drive\FXS\FXS\bin\Debug\DiscordRPC.xml
+D:\c drive\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\c drive\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\c drive\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\c drive\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\c drive\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+D:\c drive\FXS\FXS\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+D:\c drive\FXS\FXS\bin\Debug\Newtonsoft.Json.xml
+D:\c drive\FXS\FXS\obj\Debug\FXS.dashboard.resources
+D:\c drive\FXS\FXS\obj\Debug\FXS.Form2.resources
+D:\c drive\FXS\FXS\obj\Debug\FXS.logbruv.resources
+D:\c drive\FXS\FXS\obj\Debug\FXS.SaySo.resources
+D:\c drive\FXS\FXS\obj\Debug\FXS.Skins.resources
+D:\c drive\FXS\FXS\obj\Debug\FXS.Form1.resources
+D:\c drive\FXS\FXS\obj\Debug\FXS.Options.resources
+D:\c drive\FXS\FXS\obj\Debug\FXS.Properties.Resources.resources
+D:\c drive\FXS\FXS\obj\Debug\FXS.soon.resources
+D:\c drive\FXS\FXS\obj\Debug\FXS.Form1.en-US.resources
+D:\c drive\FXS\FXS\obj\Debug\FXS.csproj.GenerateResource.cache
+D:\c drive\FXS\FXS\obj\Debug\FXS.csproj.CoreCompileInputs.cache
+D:\c drive\FXS\FXS\obj\Debug\en-US\FXS.resources.dll
+D:\c drive\FXS\FXS\obj\Debug\FXS.exe.manifest
+D:\c drive\FXS\FXS\obj\Debug\FXS.application
+D:\c drive\FXS\FXS\obj\Debug\FXS.csproj.CopyComplete
+D:\c drive\FXS\FXS\obj\Debug\FXS.exe
+D:\c drive\FXS\FXS\obj\Debug\FXS.pdb
+D:\c drive\FXS\FXS\obj\Debug\FXS.csproj.AssemblyReference.cache
